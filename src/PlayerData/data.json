@@ -1,0 +1,64 @@
+[
+    {
+      "image":"https://d3nfwcxd527z59.cloudfront.net/content/uploads/2020/06/06105416/Lionel-Messi-Barcelona-Champions-League-final.jpg",
+      "name": "Leonel Messi",
+      "Salary": "$6000000"
+      
+    },
+      
+    {
+        "image":"https://images.news18.com/ibnlive/uploads/2021/09/cristiano-ronaldo-5.jpg",
+        "name": "Cristiano Ronaldo",
+        "Salary": "$5000000"
+    },
+     
+    {
+        "image":"https://www.fcbarcelona.com/photo-resources/2020/04/14/e749a006-66a3-4e3b-b1f1-d804d669983d/NEYMAR.png?width=600&height=820",
+        "name": "Neymar Jr",
+        "Salary": "$4000000"
+    },
+     
+    {
+      "image":"https://barcauniversal.com/wp-content/uploads/2020/04/barcelona-v-sporting-gijon-la-liga-1-scaled.jpg",
+      "name": "Iniesta",
+      "Salary": "$3000000"
+     
+    },
+    
+    {
+        "image":"https://www.fcbarcelona.com/photo-resources/2019/03/12/62f67c7f-28fa-49d4-aa5f-9a0502c46c41/znYiAFfh.jpg?width=1200&height=750",
+        "name": "Xavi",
+        "Salary": "$3000000"
+    },
+    
+    {
+        "image":"https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/agxgtccnxufpwpjw_1630855007.jpeg",
+        "name": "Toni Kroos",
+        "Salary": "$3000000"
+    },
+   
+    {
+        "image":"https://st.depositphotos.com/1837549/1913/i/950/depositphotos_19133571-stock-photo-carles-puyol-of-fc-barcelona.jpg",
+        "name": "Carles Puyol",
+        "Salary": "$3500000"
+    },
+   
+    {
+        "image":"https://www.thesun.co.uk/wp-content/uploads/2017/06/nintchdbpict000056290815.jpg",
+        "name": "Paolo Maldini",
+        "Salary": "$3500000"
+    },
+   
+    {
+        "image":"https://i.guim.co.uk/img/media/bcb7e0a8240ba3bf5ce8a3d3504170b6d336adfb/0_31_5458_3275/master/5458.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=628b8d015b371513c5fe93f2d27048e1",
+        "name": "Dani Alves",
+        "Salary": "$2500000"
+    },
+     
+    {
+        "image":"https://media.gettyimages.com/photos/roberto-carlos-of-brazil-in-action-during-the-2006-world-cup-south-picture-id52628001?s=612x612",
+        "name": "Roberto Carlos",
+        "Salary": "$2500000"
+    }
+     
+  ]
